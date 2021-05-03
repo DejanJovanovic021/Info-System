@@ -1,0 +1,12 @@
+# Info-System
+Java Swing, MySQL, Persistence
+
+This application have info about employees. Application use Java and MySQL database.
+
+Function of app:
+
+  1. Display all employees from database.
+  2. Display only specific employees from the database according to some of the criteria that is not id.
+  3. Change of employee data based on id.
+  4. Delete employee based on id.
+  5. Create new employee.
