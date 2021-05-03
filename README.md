@@ -1,4 +1,4 @@
-# Info-System
+# InfoSystem-Persistence
 Java Swing, MySQL, Persistence
 
 This application have info about employees. Application use Java and MySQL database.
