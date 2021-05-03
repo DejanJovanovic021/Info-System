@@ -3,6 +3,13 @@ Java Swing, MySQL, Persistence
 
 This application have info about employees. Application use Java and MySQL database.
 
+Data:
+
+  1. Name
+  2. Number of years
+  3. Address
+  4. Amount of income
+
 Function of app:
 
   1. Display all employees from database.
